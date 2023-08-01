@@ -1,0 +1,8 @@
+{
+  "name": "Advance Ionic APP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "b550ba9d"
+}
